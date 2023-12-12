@@ -7,3 +7,31 @@ main>div:nth-child(odd){
 }
 main div{
 }
+
+
+footer{
+    background-color: #3a546d;
+}
+
+#send{
+    background-color: #1abc9c;
+}
+
+#start{
+    color: #1abc9c;
+}
+
+.social{
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social svg{
+    width: 100%;
+}
+
+#copyright{
+    background-color: #2c3e50;
+}
