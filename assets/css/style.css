@@ -10,6 +10,15 @@ main>div:nth-child(odd){
     flex-grow: unset;
 }
 
+.navbar-toggler-icon{
+    filter: invert(100%);
+}
+
+.btn{
+    background-color: #1abc9c;
+    color: white;
+}
+
 footer{
     background-color: #3a546d;
 }
@@ -36,9 +45,3 @@ footer{
 #copyright{
     background-color: #2c3e50;
 }
-
-/* @media screen and (max-width: 576px){
-    .social svg{
-        width: 12px;
-    }
-} */
