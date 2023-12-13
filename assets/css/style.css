@@ -6,6 +6,9 @@ main>div:nth-child(odd){
     background-color: #1abc9c;
 }
 
+.navbar-collapse{
+    flex-grow: unset;
+}
 
 footer{
     background-color: #3a546d;
